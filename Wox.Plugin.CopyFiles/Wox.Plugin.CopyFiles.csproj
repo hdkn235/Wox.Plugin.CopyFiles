@@ -43,7 +43,7 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
     <Reference Include="Wox.Infrastructure">
-      <HintPath>..\packages\Wox.Infrastructure.dll</HintPath>
+      <HintPath>..\libs\Wox.Infrastructure.dll</HintPath>
     </Reference>
     <Reference Include="Wox.Plugin">
       <HintPath>..\..\packages\Wox.Plugin.1.1.1.426\lib\net35\Wox.Plugin.dll</HintPath>

@@ -1,0 +1,17 @@
+E:\Projects\Wox-1.2.0-beta\Plugins\Wox.Plugin.CopyFiles\bin\Release\Images\plugin.png
+E:\Projects\Wox-1.2.0-beta\Plugins\Wox.Plugin.CopyFiles\bin\Release\plugin.json
+E:\Projects\Wox-1.2.0-beta\Plugins\Wox.Plugin.CopyFiles\bin\Release\Wox.Plugin.CopyFiles.dll
+E:\Projects\Wox-1.2.0-beta\Plugins\Wox.Plugin.CopyFiles\bin\Release\Wox.Plugin.CopyFiles.pdb
+E:\Projects\Wox-1.2.0-beta\Plugins\Wox.Plugin.CopyFiles\bin\Release\Newtonsoft.Json.dll
+E:\Projects\Wox-1.2.0-beta\Plugins\Wox.Plugin.CopyFiles\bin\Release\Wox.Infrastructure.dll
+E:\Projects\Wox-1.2.0-beta\Plugins\Wox.Plugin.CopyFiles\bin\Release\Wox.Plugin.dll
+E:\Projects\Wox-1.2.0-beta\Plugins\Wox.Plugin.CopyFiles\bin\Release\log4net.dll
+E:\Projects\Wox-1.2.0-beta\Plugins\Wox.Plugin.CopyFiles\bin\Release\Newtonsoft.Json.xml
+E:\Projects\Wox-1.2.0-beta\Plugins\Wox.Plugin.CopyFiles\bin\Release\Wox.Infrastructure.pdb
+E:\Projects\Wox-1.2.0-beta\Plugins\Wox.Plugin.CopyFiles\bin\Release\log4net.xml
+E:\Projects\Wox-1.2.0-beta\Plugins\Wox.Plugin.CopyFiles\obj\Release\Wox.Plugin.CopyFiles.dll
+E:\Projects\Wox-1.2.0-beta\Plugins\Wox.Plugin.CopyFiles\obj\Release\Wox.Plugin.CopyFiles.pdb
+E:\Projects\Wox-1.2.0-beta\Output\Debug\Plugins\Wox.Plugin.CopyFiles\Images\plugin.png
+E:\Projects\Wox-1.2.0-beta\Output\Debug\Plugins\Wox.Plugin.CopyFiles\plugin.json
+E:\Projects\Wox-1.2.0-beta\Output\Debug\Plugins\Wox.Plugin.CopyFiles\Wox.Plugin.CopyFiles.dll
+E:\Projects\Wox-1.2.0-beta\Output\Debug\Plugins\Wox.Plugin.CopyFiles\Wox.Plugin.CopyFiles.pdb

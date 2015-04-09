@@ -1,0 +1,12 @@
+{
+    "ID":"1A1B9B21535543DE9EDC897DBB9D95A8",
+    "ActionKeyword":"cp",
+    "Name":"CopyFiles",
+    "Description":"From the Clipboard to copy files to a specified directory",
+    "Author":"hoda",
+    "Version":"1.0.0",
+    "Language":"csharp",
+    "Website":"http://www.getwox.com/plugin",
+    "ExecuteFileName":"Wox.Plugin.CopyFiles.dll",
+    "IcoPath":"Images\\plugin.png"
+}

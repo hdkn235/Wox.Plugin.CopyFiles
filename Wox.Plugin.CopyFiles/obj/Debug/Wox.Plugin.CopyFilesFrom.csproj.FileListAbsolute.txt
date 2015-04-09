@@ -1,0 +1,2 @@
+E:\Projects\Wox-master\Plugins\Wox.Plugin.CopyFiles\obj\Debug\Wox.Plugin.CopyFiles.dll
+E:\Projects\Wox-master\Plugins\Wox.Plugin.CopyFiles\obj\Debug\Wox.Plugin.CopyFiles.pdb
